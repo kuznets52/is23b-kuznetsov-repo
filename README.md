@@ -1,2 +1,2 @@
 # is23b-kuznetsov-repo
-Егор
+__prakticheskaya13__
